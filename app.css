@@ -1,0 +1,30 @@
+body
+{
+    height: 100vh;
+    background: linear-gradient(rgb(156, 156, 220),rgb(76, 76, 144));
+}
+.container1
+{
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    margin: auto;
+}
+.container2
+{
+    width: 500px;
+    background: linear-gradient(rgb(247, 235, 248,0.3),rgb(87, 165, 229,0.3));
+    opacity: 0.8;
+}
+.container3
+{
+    text-align: center;
+}
+.search
+{
+    margin: 5px;
+    width: 200px;
+}
+.search-box{
+    width: 50px;
+}
